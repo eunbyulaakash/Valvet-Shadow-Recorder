@@ -4,6 +4,15 @@ Velvet Recorder is a Flutter app that looks like a simple notes application but 
 
 ---
 
+## To use the code:
+
+1. Copy code
+2. run flutter clean
+3. run flutter pub get
+4. run flutter pub run flutter_launcher_icons:main
+
+---
+
 ## Project Structure & File Purposes
 
 Below is an overview of the main files and what logic they implement.
@@ -286,4 +295,5 @@ Although not Dart files, these are important for the project:
 - **Theming and UI polish** are centralised in `theme.dart` and expressed in the love‑themed notes screen and ghost‑themed recorder screen.
 
 This README should give you a clear map of what logic lives in each file you added or modified, and how the pieces fit together.
+
 ```
