@@ -1,4 +1,4 @@
-name: velvet_recorder
+name: valvet_recorder
 description: Notes app with built-in audio and video recording features.
 publish_to: "none"
 
@@ -53,4 +53,5 @@ flutter:
 dependency_overrides:
   record_linux: ^1.2.1
   record_platform_interface: ^1.4.0
+
 
