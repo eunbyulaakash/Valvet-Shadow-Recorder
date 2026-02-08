@@ -123,6 +123,7 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
 flutter pub get
 flutter run
+```
 ## 👥 Team
 
 **Aakash Maurya** — Founder & Lead Developer  
@@ -160,6 +161,3 @@ See the [LICENSE](LICENSE) file for more information.
 <div align="center">
   <h4>© Copyright AK Innovations 2025</h4>
 </div>
-
-flutter pub get
-flutter run
