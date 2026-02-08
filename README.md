@@ -12,13 +12,13 @@ Built for users who value privacy, speed, and simplicity.
 Built with Flutter — not just another wrapper 😉
 
 <a href="https://instagram.com/eunbyul._.aakash">
-  <img alt="Instagram Page" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/instagram-plural_vector.svg">
+  <img alt="Instagram Page" height="56" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="www.linkedin.com/in/eunbyul-aakash">
-  <img alt="LinkedIn Profile" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/linkedin-plural_vector.svg">
+  <img alt="LinkedIn Profile" height="56" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="#">
-  <img alt="Google Play Coming Soon" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/app/google-play_vector.svg">
+  <img alt="Google Play Coming Soon" height="56" src="https://img.shields.io/badge/Google_Play-Coming_Soon-34A853?style=for-the-badge&logo=google-play&logoColor=white">
 </a>
 
 ---
