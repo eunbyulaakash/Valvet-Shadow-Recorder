@@ -31,7 +31,21 @@ Built with Flutter — not just another wrapper 😉
 
 ![Velvet Notes – Notes Screen](assets/branding/play_screenshots/1.png)
 
-![Velvet Notes – Recorder Screen](assets/branding/play_screenshots/5.png)
+<div align="center">
+
+<img src="assets/branding/play_screenshots/2.png" width="22%" />
+<img src="assets/branding/play_screenshots/3.png" width="22%" />
+<img src="assets/branding/play_screenshots/4.png" width="22%" />
+<img src="assets/branding/play_screenshots/5.png" width="22%" />
+
+<br/>
+
+<img src="assets/branding/play_screenshots/6.png" width="22%" />
+<img src="assets/branding/play_screenshots/7.png" width="22%" />
+<img src="assets/branding/play_screenshots/8.png" width="22%" />
+<img src="assets/branding/play_screenshots/9.png" width="22%" />
+
+</div>
 
 </div>
 
