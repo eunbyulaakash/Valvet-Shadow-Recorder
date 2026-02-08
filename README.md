@@ -1,10 +1,13 @@
 <div align="center">
-  <img width="600" src="assets/branding/velvet_banner.png" alt="Velvet Notes & Recorder Logo">
+  <img width="600" src="assets/branding/velvet_banner.png" alt="Velvet Notes Logo">
 
-A privacy-focused notes application with built-in audio & video recording.<br>
-Velvet Notes & Recorder combines a clean notes experience with smart recording tools — all while keeping user data local, secure, and fully under control.
+**Velvet Notes & Recorder**  
+<i>“Notes that look simple — but feel secure.”</i>
 
-Designed with simplicity, discretion, and performance in mind.
+A privacy-focused notes application built with Flutter.<br>
+Velvet Notes presents itself as a clean notes app while offering advanced audio and video recording capabilities designed for discretion, control, and local-only data storage.
+
+Built for users who value privacy, speed, and simplicity.
 
 Built with Flutter — not just another wrapper 😉
 
@@ -22,27 +25,70 @@ Built with Flutter — not just another wrapper 😉
 
 ![Velvet Notes – Notes Screen](assets/screenshots/notes_screen.png)
 
-![Velvet Recorder – Recording Screen](assets/screenshots/recorder_combined.png)
+![Velvet Notes – Recorder Screen](assets/screenshots/recorder_combined.png)
 
 </div>
 
-## 🌃 Features
+## 🎯 Objective
 
-- 📝 Clean, minimal notes interface with dark theme
-- 🎙 Audio recording with simple start/stop controls
-- 📹 Video recording support inside the app
-- 🔁 Background recording while using the app
-- 🔒 Screen-lock support — recording continues when device is locked
-- 🧠 Gesture-based access to keep the interface distraction-free
-- 🛡️ In-app privacy indicator when recording is active
-- 💾 Local secure storage — recordings never leave the device
-- 🚫 No accounts, no cloud sync, no analytics
-- 🚀 Native Flutter performance
+- Provide a **discreet notes-style interface** as the default user experience  
+- Enable **gesture-based access** to recording tools with no visible entry point  
+- Support **audio and video recording** while maintaining user awareness inside the app  
+- Store all data **locally** to ensure privacy and control  
+
+## 🌃 Key Features
+
+- 📝 Create, edit, and delete notes
+- 🖤 Dark enhanced UI with a minimal design
+- 🧠 Gesture-based access (tap empty area 5 times within ~1.2 seconds)
+- 🎙 Audio recording with background continuation
+- 📹 Video recording with live preview (screen visible)
+- 🔁 Background recording support
+- 🛡️ In-app banner indicator when recording is active
+- 💾 Local-only storage (no cloud, no external access)
+- 🚫 No login, no analytics, no tracking
 - 📖 Fully open-source
 
-## 📜 ⬇️ Installation guide
+## 🧩 Application Modes
 
-Velvet Notes & Recorder is currently available via source build.<br />
+### Notes Interface (Default Home Screen)
+- Appears as a standard notes application
+- Used for daily tasks, reminders, and writing
+- Acts as the primary visible interface
+
+### Recorder Interface
+- Accessible via gesture
+- Supports two modes:
+  - **Audio recording**
+  - **Video recording**
+- No visible recorder buttons on the notes screen
+
+## ✨ UX Highlights
+
+- Helps track daily responsibilities, errands, and reminders
+- Gesture-based entry keeps the UI clean
+- In-app banner informs the user when recording is active
+- Foreground indicator for background recording awareness
+
+## 🛠 Architecture & Tech Stack
+
+### Framework
+- **Flutter (Dart)**
+- Material Design components
+
+### Recording Technology
+- **Audio:** `record` plugin
+- **Video:** `camera` plugin
+- **Background service:** `flutter_foreground_task`
+
+### Storage
+- **Notes:** SQLite (`sqflite`)
+- **Recordings:** Internal app-private storage  
+  (accessible only inside the app)
+
+## 📜 ⬇️ Installation Guide
+
+Velvet Notes & Recorder is currently available via source build.<br>
 Google Play release is coming soon.
 
 <table>
@@ -59,7 +105,7 @@ Google Play release is coming soon.
   </tr>
 </table>
 
-## 🕳️ Building from source
+## 🕳️ Building from Source
 
 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/actions">
   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/YOUR_REPO/flutter.yml?label=Build%20Status">
@@ -94,25 +140,26 @@ See the [LICENSE](LICENSE) file for more information.
 
 ### Core Services
 
-- **Flutter** — Cross-platform UI framework  
-- **Android background services** — Continuous background execution  
-- **Local storage** — Secure on-device file handling  
-- **permission_handler**  
+- **Flutter** — Cross-platform UI framework
+- **Android background services** — Continuous background execution
+- **Local storage** — Secure on-device file handling
+- **permission_handler**
 - **encrypt**
 
 ### Key Flutter Packages
 
-- permission_handler  
-- path_provider  
-- flutter_secure_storage  
-- encrypt  
-- riverpod  
-- shared_preferences  
+- permission_handler
+- path_provider
+- flutter_secure_storage
+- encrypt
+- riverpod
+- shared_preferences
 
 </details>
 
 <div align="center">
   <h4>© Copyright AK Innovations 2025</h4>
 </div>
+
 flutter pub get
 flutter run
