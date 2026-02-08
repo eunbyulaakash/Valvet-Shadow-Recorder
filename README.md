@@ -113,9 +113,7 @@ Google Play release is coming soon.
 
 ## 🕳️ Building from Source
 
-<a href="https://github.com/eunbyulaakash/Valvet-Shadow-Recorder/actions">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/eunbyulaakash/Valvet-Shadow-Recorder/flutter.yml?label=Build%20Status">
-</a>
+Velvet Notes & Recorder can be built locally using Flutter.
 
 ### Requirements
 - Flutter SDK
