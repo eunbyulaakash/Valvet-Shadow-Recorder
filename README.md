@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="600" src="assets/branding/velvet_banner.png" alt="Velvet Notes Logo">
+  <img width="600" src="assets/branding/playstore_icon.png" alt="Velvet Notes Logo">
 
 **Velvet Notes & Recorder**  
 <i>“Notes that look simple — but feel secure.”</i>
@@ -11,10 +11,10 @@ Built for users who value privacy, speed, and simplicity.
 
 Built with Flutter — not just another wrapper 😉
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/eunbyul._.aakash">
   <img alt="Instagram Page" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/instagram-plural_vector.svg">
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/eunbyul-aakash">
   <img alt="LinkedIn Profile" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/linkedin-plural_vector.svg">
 </a>
 <a href="#">
@@ -23,9 +23,9 @@ Built with Flutter — not just another wrapper 😉
 
 ---
 
-![Velvet Notes – Notes Screen](assets/screenshots/notes_screen.png)
+![Velvet Notes – Notes Screen](assets/branding/play_screenshots/1.png)
 
-![Velvet Notes – Recorder Screen](assets/screenshots/recorder_combined.png)
+![Velvet Notes – Recorder Screen](assets/branding/play_screenshots/5.png)
 
 </div>
 
@@ -107,8 +107,8 @@ Google Play release is coming soon.
 
 ## 🕳️ Building from Source
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO/actions">
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/YOUR_REPO/flutter.yml?label=Build%20Status">
+<a href="https://github.com/eunbyulaakash/Valvet-Shadow-Recorder/actions">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/eunbyulaakash/Valvet-Shadow-Recorder/flutter.yml?label=Build%20Status">
 </a>
 
 ### Requirements
@@ -131,7 +131,7 @@ flutter run
 
 ## 💼 License
 
-Velvet Notes & Recorder is open source and licensed under the **MIT License**.  
+Velvet Notes & Recorder is open source and licensed under the **Proprietary License**.  
 See the [LICENSE](LICENSE) file for more information.
 
 <details>
@@ -149,12 +149,17 @@ See the [LICENSE](LICENSE) file for more information.
 
 ### Key Flutter Packages
 
-- permission_handler
+- cupertino_icons
+- provider
+- record
+- camera
 - path_provider
-- flutter_secure_storage
-- encrypt
-- riverpod
-- shared_preferences
+- path
+- permission_handler
+- sqflite
+- intl
+- open_filex
+- flutter_foreground_task
 
 </details>
 
