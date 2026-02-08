@@ -22,7 +22,7 @@ Built with Flutter — not just another wrapper 😉
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img src="https://cdn.simpleicons.org/googleplay" width="64" height="64" alt="Google Play"/>
+  <img src="https://cdn.simpleicons.org/googleplay/410099" width="64" height="64" alt="Google Play"/>
 </a>
 
 </div>
