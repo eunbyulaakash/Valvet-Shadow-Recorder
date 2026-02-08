@@ -22,8 +22,7 @@ Built with Flutter — not just another wrapper 😉
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=googleplay" width="64" height="64" alt="Google Play"/>
-  <img src="https://upload.wikimedia.org" alt="Get it on Google Play" width="200">
+  <img src="https://svgl.app/library/googleplay.svg" width="64" height="64" alt="Google Play"/>
 </a>
 
 </div>
