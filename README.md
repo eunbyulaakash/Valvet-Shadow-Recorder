@@ -11,15 +11,21 @@ Built for users who value privacy, speed, and simplicity.
 
 Built with Flutter — not just another wrapper 😉
 
+<div align="center">
+
 <a href="https://instagram.com/eunbyul._.aakash">
-  <img alt="Instagram Page" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a><br>
-<a href="www.linkedin.com/in/eunbyul-aakash">
-  <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a><br>
-<a href="#">
-  <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-Coming_Soon-34A853?style=for-the-badge&logo=google-play&logoColor=white">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="64" height="64" alt="Instagram"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/eunbyul-aakash">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="64" height="64" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#">
+  <img src="https://cdn.simpleicons.org/googleplay/34A853" width="64" height="64" alt="Google Play"/>
+</a>
+
+</div>
 
 ---
 
