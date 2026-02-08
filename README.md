@@ -15,10 +15,10 @@ Built with Flutter — not just another wrapper 😉
   <img alt="Instagram Page" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="www.linkedin.com/in/eunbyul-aakash">
-  <img alt="LinkedIn Profile" height="56" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="#">
-  <img alt="Google Play Coming Soon" height="56" src="https://img.shields.io/badge/Google_Play-Coming_Soon-34A853?style=for-the-badge&logo=google-play&logoColor=white">
+  <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-Coming_Soon-34A853?style=for-the-badge&logo=google-play&logoColor=white">
 </a>
 
 ---
