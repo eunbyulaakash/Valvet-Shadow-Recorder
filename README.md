@@ -14,15 +14,15 @@ Built with Flutter — not just another wrapper 😉
 <div align="center">
 
 <a href="https://instagram.com/eunbyul._.aakash">
-  <img src="https://cdn.simpleicons.org/instagram" width="64" height="64" alt="Instagram"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="64" height="64" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/eunbyul-aakash">
-  <img src="https://cdn.simpleicons.org/linkedin" width="64" height="64" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="64" height="64" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img src="https://cdn.simpleicons.org/googleplay/410099" width="64" height="64" alt="Google Play"/>
+  <img src="https://skillicons.dev/icons?i=googleplay" width="64" height="64" alt="Google Play"/>
 </a>
 
 </div>
