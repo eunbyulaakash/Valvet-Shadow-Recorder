@@ -83,7 +83,7 @@ Built with Flutter — not just another wrapper 😉
   - **Video recording**
 - No visible recorder buttons on the notes screen
 
-- ## 📖 How to Use
+## 📖 How to Use
 
 Follow these simple steps to use Velvet Notes & Recorder efficiently:
 
