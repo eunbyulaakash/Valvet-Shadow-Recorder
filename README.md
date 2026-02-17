@@ -83,6 +83,70 @@ Built with Flutter — not just another wrapper 😉
   - **Video recording**
 - No visible recorder buttons on the notes screen
 
+- ## 📖 How to Use
+
+Follow these simple steps to use Velvet Notes & Recorder efficiently:
+
+### 📝 Using Notes Mode
+1. Launch the app.
+2. The default screen is the notes interface.
+3. Tap **Add Note** to create a new note.
+4. Enter title and content.
+5. Notes are saved locally on your device.
+
+---
+
+### 🎙 Accessing Recorder
+1. Open the notes screen.
+2. Tap quickly on an empty area multiple times.
+3. The recorder interface will open.
+
+---
+
+### 🔴 Start Recording
+1. Choose recording type:
+   - Audio
+   - Video
+2. Tap **Start Recording**.
+3. Recording begins instantly.
+
+---
+
+### 🔁 Background Recording
+- Recording continues while:
+  - You switch screens
+  - You use notes
+  - The device screen is locked
+
+---
+
+### 🛑 Stop Recording
+1. Open the recorder screen again using the gesture.
+2. Tap **Stop Recording**.
+
+---
+
+### 📂 Managing Recordings
+Inside recorder screen you can:
+- ▶ Play recordings
+- 🗑 Delete recordings
+- 📁 View saved files
+
+All recordings are stored securely inside the app storage.
+
+---
+
+### 🛡 Privacy Indicator
+When recording is active, an **in-app banner** appears on the notes screen indicating recording status.
+
+---
+
+### ⚡ Tips
+- Make sure microphone/camera permissions are granted.
+- Disable battery optimization for best background performance.
+- Keep app updated for improvements.
+
+
 ## ✨ UX Highlights
 
 - Helps track daily responsibilities, errands, and reminders
