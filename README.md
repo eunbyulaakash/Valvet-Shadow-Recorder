@@ -83,6 +83,7 @@ Built with Flutter — not just another wrapper 😉
   - **Video recording**
 - No visible recorder buttons on the notes screen
 
+
 ## 📖 How to Use
 
 Follow these simple steps to use Velvet Notes & Recorder efficiently:
@@ -145,6 +146,7 @@ When recording is active, an **in-app banner** appears on the notes screen indic
 - Make sure microphone/camera permissions are granted.
 - Disable battery optimization for best background performance.
 - Keep app updated for improvements.
+
 
 
 ## ✨ UX Highlights
